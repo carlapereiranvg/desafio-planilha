@@ -1,24 +1,24 @@
-# Podcast: O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais
+# Planilha - Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
 ## 📒 Descrição
-Este podcast tem por objetivo e alertar e informar sobre a questão das bets e de seus riscos no uso indiscriminado por beneficiários de beneficios sociais.
+Plabilha financeira com dashboard e integração de dados desenvolvida com base no treinamento DIO
 
 
 ## 🤖 Tecnologias Utilizadas
 
-### Podcast
+### Planilha
 
--► Roteiro: Conteúdo gerado pelo ChatGPT;
--► Leitura de Texto: IA Generativa **[ElevenLabs]((https://elevenlabs.io/))**;
+-► Conteudo da Planilha: Dados aleatórios gerados pela DIO para o exercício.
+-► recursos utilidados: microsoft excel
 
 ## 🧐 Processo de Criação
-Foi utilizado "ChatGPT" para gerar a pesquisa textual sobre tema, estruturar o conteúdo e refinar as ideias. Para concluir, a edição final do texto foi feita no Microsoft Word, por ser uma ferramenta especifica para edição de texto.
 
-Para geração do Podcast, foi aproveitado o conteúdo do assunto, mas de forma resumida, a fim de passar a informação e idéia central do texto completo.
+Planilha produzida seguindo parametros do treinamento.
+
 
 ## 🚀 Resultados
 
-Ja o Podcast foi resumido para não se tornar cansativo e ser informativo, mostrando a precisão e a facilidade em gerar conteúdos de audio.
+A planilha consta disponivel de forma pública.
 
 »»» [[O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais](https://github.com/carlapereiranvg/lab-natty-or-not/blob/main/Podcast%20-%20IA%20generati%20a%20e%20Tratamento%20de%20Doen%C3%A7as.mp3)]()
 
